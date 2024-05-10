@@ -6,5 +6,5 @@ I am a passionated software developer with experience in developing responsive w
 
 
 ## Find out more about me 👨‍💻
-- Check out my latest projects on my <a href="https://mike-meyer.dev/">Website</a> 💻
-- Let's connect on <a href="https://www.linkedin.com/in/mike-meyer-dev/">LinkedIn</a> 🔥
+- Check out my latest projects on my <a href="https://mike-meyer.dev/" target="_blank">Website</a> 💻
+- Let's connect on <a href="https://www.linkedin.com/in/mike-meyer-dev/" target="_blank">LinkedIn</a> 🔥
